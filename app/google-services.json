@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61728231607",
+    "project_id": "full-app-with-firebase",
+    "storage_bucket": "full-app-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61728231607:android:d6888681c1f7b4f71e7d32",
+        "android_client_info": {
+          "package_name": "com.example.uploadandretrieveimagesfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61728231607-okmiiv97i1t88vhr4vu70d3i8mroj794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aIMPKAWKPvXA8qgjg_fCt8xovG442TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61728231607-okmiiv97i1t88vhr4vu70d3i8mroj794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
